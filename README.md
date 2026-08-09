@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing a **B.Tech in Electronics and Communication Engineering** at IIIT Nagpur (Class of 2028), maintaining an 8.65 CGPA.
-- 💡 Passionate about **Machine Learning, Deep Learning, Artificial Neural Networks (ANN), Generative AI, and Natural Language Processing (NLP)**.
+- 💡 Strongly focused on the software domain, with a passion for building applications in **Machine Learning, Deep Learning, Generative AI, and RAG (Retrieval-Augmented Generation)**.
 - 🏆 Active in competitive programming with a **2-Star rating on CodeChef** and **110+ problems solved on LeetCode**.
-- ⚙️ Exploring the intersection of software and hardware, with a strong interest in core ECE subjects like Digital Signal Processing and Control Systems.
+- 🚀 Continuously building and deploying intelligent systems using frameworks like LangChain, Scikit-learn, and Tensorflow.
 
 ---
 
@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Libraries & Frameworks:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -43,14 +43,8 @@
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish778188&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish778188&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish778188&theme=radical" alt="GitHub Streak" width="48%">
 </p>
----
-
-### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish778188&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krish778188&theme=radical)

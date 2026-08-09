@@ -45,6 +45,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish778188&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=krish778188&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish778188&theme=radical" alt="GitHub Streak" width="48%">
 </p>

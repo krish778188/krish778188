@@ -2,10 +2,10 @@
 <h3 align="center">B.Tech ECE @ IIIT Nagpur | ML & GenAI Enthusiast</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>[https://github.com/krish778188](https://www.linkedin.com/in/krish-raj-a68072327?utm_source=share_via&utm_content=profile&utm_medium=member_ios)</a>
-  <a href="https://github.com/krish778188"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>[https://github.com/krish778188]</a>
-  <a href="https://leetcode.com/u/krish7781/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>https://leetcode.com/u/krish7781/</a>
-  <a href="https://www.codechef.com/users/krish_48"><img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>https://www.codechef.com/users/krish_48</a>
+  <a href="https://www.linkedin.com/in/krish-raj-a68072327?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/krish778188"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/krish7781/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/krish_48"><img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
 ---

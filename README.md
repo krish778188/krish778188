@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing a **B.Tech in Electronics and Communication Engineering** at IIIT Nagpur (Class of 2028), maintaining an 8.65 CGPA.
 - 💡 Strongly focused on the software domain, with a passion for building applications in **Machine Learning, Deep Learning, Generative AI, and RAG (Retrieval-Augmented Generation)**.
-- 🏆 Active in competitive programming with a **2-Star rating on CodeChef** and **110+ problems solved on LeetCode**.
+- 🏆 Active in competitive programming with a **2-Star rating on CodeChef** and **200+ problems solved on LeetCode**.
 - 🚀 Continuously building and deploying intelligent systems using frameworks like LangChain, Scikit-learn, and Tensorflow.
 
 ---
